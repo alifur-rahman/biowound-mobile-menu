@@ -1,0 +1,49 @@
+@media all and (max-width: 1199px){
+
+}
+
+
+
+@media all and (max-width: 991px){
+	
+}
+
+
+
+@media all and (max-width: 767px){
+.header_right ul li {
+	margin-left: 20px;
+}
+.header_logo a img {
+	width: 65px;
+}
+.header_main {
+	padding: 9px 20px 9px 20px;
+}
+
+
+}
+
+
+
+@media all and (max-width: 575px){
+	
+}
+
+
+
+@media all and (max-width: 450px){
+.header_main {
+	padding: 9px 10px 9px 10px;
+}
+.header_right ul li {
+	margin-left: 12px;
+}
+.header_logo a img {
+	width: 60px;
+}
+
+
+
+}
+
